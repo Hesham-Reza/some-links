@@ -1,0 +1,24 @@
+                                          Best useful websits
+                            1.netlify - for front end display.
+                            2.heroku - for backend (API) display
+                            3.for photos
+                              a.unsplash
+                              b.undraw - all hand draw type images
+                              c.pexels
+                              d.cover
+                            4.google fonts - for fonts , itcan't be replaced
+                            5.icons 
+                              a.flaticon
+                              b.fonticon
+                              c.animated icons - it's name is self explanatory
+                            6.freecodecamp
+                            7.odin project - fullstack web dev free course.(it's actually , no marketing stuffss)
+                            8.mem.dev - it helps you to remember , it will help you to practice
+                            9.figma 
+                           10.awwwards , dribbble - to find design ideas
+                           11.letcode.com , exercism.io , codewars.com - helps you to practice more and more
+                           12.can i use - tells you that what method is supported for browsers. 
+                           13.imageconpressor.com - it compresses your images 
+                           14.css tricks - new css ideas
+                           15.stackoverflow - don't need to explain
+                           16.scrimba - just wow!                                       
